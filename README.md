@@ -1,5 +1,4 @@
-python -c "
-conteudo = '''# CP2 - RPA Utilizando Python: Automação de Compras e Câmbio Logístico
+﻿# CP2 - RPA Utilizando Python: Automação de Compras e Câmbio Logístico
 
 Automação em Python desenvolvida para resolver uma dor operacional no setor de Compras e Logística: a dependência de consultas manuais de cotações cambiais para precificação de insumos importados, conferência de custos e aprovações financeiras.
 
@@ -61,16 +60,10 @@ Esta solução automatiza:
 4. Execute a automação:
    python automation.py
 
-O relatório processado será salvo automaticamente em `data/relatorio_compras_atualizado.xlsx`.
+O relatório processado será salvo automaticamente em data/relatorio_compras_atualizado.xlsx.
 
 ---
 
 ## 🎥 Vídeo de Demonstração
 
 * **Link da Apresentação:** [Inserir link do YouTube (Não Listado) ou Drive/OneDrive]
-'''
-
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(conteudo)
-print('README.md gerado com sucesso!')
-"
