@@ -64,6 +64,4 @@ O relatório processado será salvo automaticamente em data/relatorio_compras_at
 
 ---
 
-## 🎥 Vídeo de Demonstração
 
-* **Link da Apresentação:** [Inserir link do YouTube (Não Listado) ou Drive/OneDrive]
